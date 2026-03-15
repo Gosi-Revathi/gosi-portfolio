@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gosirevathi.vercel.app/sitemap.xml
