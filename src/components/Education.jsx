@@ -22,7 +22,7 @@ export default function Education() {
       <SectionHeader num="07" title="Education" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         <EduCard degree="MCA" school="Bangalore City University" year="Graduated 2025" cgpa="8.71" delay={0} />
-        <EduCard degree="BCA" school="Sri Akshaya College of Commerce & Management" year="Graduated 2023" cgpa="8.83" delay={90} />
+        <EduCard degree="BCA" school="Vijayanagara Sri Krishnadevaraya University Ballari" year="Graduated 2023" cgpa="8.83" delay={90} />
       </div>
     </section>
   )
